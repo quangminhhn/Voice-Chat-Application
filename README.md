@@ -1,1 +1,5 @@
-# Voice-Chat-Application
+## Voice Chat Application (SocketIO library using NodeJS)
+
+**Installation**
+
+    $ npm install
